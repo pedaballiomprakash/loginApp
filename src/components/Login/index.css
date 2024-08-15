@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.login-button {
+  background-color: #ffffff;
+  border: none;
+  font-size: 14px;
+  color: #303150;
+  font-size: 14px;
+  border-radius: 12px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 32px;
+  padding-right: 32px;
+}
